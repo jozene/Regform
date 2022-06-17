@@ -22,7 +22,7 @@ p {
   display: flex;
   -ms-flex-line-pack: center;
       align-content: center;
-  background-image: url(/images/bg-intro-desktop.png);
+  background-image: url(images/bg-intro-desktop.png);
   color: #fff;
 }
 
